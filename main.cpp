@@ -23,7 +23,7 @@ int main()
     array.remove(7);
    
     // Добавьте 30 и 40 в конец и начало
-    array.insertAtEnd(30);
+    array.insertAtEnd(20);
     array.insertAtBeginning(40);
   
 
